@@ -1,0 +1,5 @@
+,Home_wins,Home_losses,Home_OT,Away_wins,Away_losses,Away_OT,Home_goals,Home_pim,Home_shots,Home_powerPlayPercentage,Home_powerPlayGoals,Home_powerPlayOpportunities,Home_faceOffWinPercentage,Home_blocked,Home_takeaways,Home_giveaways,Home_hits,Away_goals,Away_pim,Away_shots,Away_powerPlayPercentage,Away_powerPlayGoals,Away_powerPlayOpportunities,Away_faceOffWinPercentage,Away_blocked,Away_takeaways,Away_giveaways,Away_hits,Win_Diff,Loss_Diff,OT_Diff,Goals_Diff,Shots_Diff,Blocked_Diff,PIM_Diff,PowerPlayGoals_Diff,Takeaways_Diff,Giveaways_Diff,Hits_Diff,Winner_binary
+2019020659,24,14,5,22,17,5,0,4,11,0.0,0.0,0.0,0.619,7,5,5,5,1,0,17,0.0,0.0,2.0,0.381,1,1,0,11,2,-3,0,-1,-6,6,4,0.0,4,5,-6,1.0
+2019020660,18,17,7,22,16,4,0,2,12,0.0,0.0,0.0,0.5,1,3,7,19,0,0,11,0.0,0.0,1.0,0.5,3,1,4,11,-4,1,3,0,1,-2,2,0.0,2,3,8,1.0
+2019020661,25,12,3,25,13,4,0,2,15,0.0,0.0,1.0,0.33299999999999996,13,5,6,5,0,2,5,0.0,0.0,1.0,0.667,3,2,3,9,0,-1,-1,0,10,10,0,0.0,3,3,-4,0.0
+2019020662,17,22,4,19,15,8,1,2,16,0.0,0.0,0.0,0.467,2,4,1,7,0,0,10,0.0,0.0,1.0,0.5329999999999999,6,0,4,7,-2,7,-4,1,6,-4,2,0.0,4,-3,0,1.0
